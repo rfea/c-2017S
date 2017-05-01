@@ -1,0 +1,40 @@
+Project code should be:
+
+1. well documented
+	class should be commented
+	one line explain what the class represents
+
+	every method should be explained. What does it do?
+
+	Don't: explain c++
+		x++; // add one to x -> uneccessary
+			 // WHY??
+
+	DO: explain your logic
+
+2. Clean, object-oriented code
+
+	Your presentation should describe the architecture of how the code works
+		NOT EVERY LINE
+	
+	10 minute time limit.
+	Manage your time.
+	Really good idea to end with demo
+	if you do the demo, then do the architecture, boring!
+
+	First explain, make sure you don't run out of time
+	Second demo
+
+Points
+		Clarity
+		not everyone is obligated to present
+		Difficulty of design
+		Is it working?
+
+		What isn't in the repo DOES NOT EXIST
+
+Presentations:
+		Don't drive the demo/powerpoint and talk
+		Don't look backwards
+		At least look at the laptop.
+		Try to rehearse
